@@ -1,5 +1,5 @@
-Today I started work on creating this logging system.
+This is another test to see if the logging system works
 
-Hopefully it works and everything is formatted correctly.
+Please I hope that this works
 
-	This would be really good for keeping a record of everything for my manager!
+		Could be very nice if it did
