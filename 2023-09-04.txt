@@ -1,0 +1,5 @@
+Today I started work on creating this logging system.
+
+Hopefully it works and everything is formatted correctly.
+
+	This would be really good for keeping a record of everything for my manager!
